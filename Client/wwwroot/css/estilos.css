@@ -1,0 +1,42 @@
+.banner-image{
+    height: 500px;
+    width: 100%;
+    background-image: url("https://coolwallpapers.me/picsup/432216-breaking-bad-wallpaper-full-hd.jpg");
+    background-size: cover;
+}
+/*Aqui se eliminan los margenes "Sobreescribiendolos" de sus archivos css originales
+ya que no se pueden modificar directamente*/
+@media (min-width: 641px) {
+    .main > div[b-7cagx947hi] {
+        padding-left: 0rem !important;
+        padding-right: 0rem !important;
+    }
+
+}
+.content {
+    padding-top: 0rem;
+}
+.index-page.resultados{
+    min-height: 400px;
+    position: relative;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+/*Aqui se modifica el input y el boton, son de boostrap*/
+.texto{
+    width: 30%;
+    height: 45px;
+    position: absolute;
+    top: 25%;
+    right: 30%;
+    
+}
+.boton{
+    position: absolute;
+    height: 45px;
+    width: 5%;
+    top: 25%;
+    right: 25%;
+}
+    

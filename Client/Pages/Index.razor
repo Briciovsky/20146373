@@ -1,7 +1,40 @@
 ﻿@page "/"
+@page "/index"
+@using ExamenRegu.Client.Components
+@using ExamenRegu.Client
 
-<h1>Hello, world!</h1>
+<!--<SearchControl PlaceHolder = "Buscar personaje" />-->
+<div class="container-fluid">
+    <!--este es el div que tiene a la imagen-->
+    <div class="banner-row">
+        <div class="banner-image">
+            <!--aqui va la caja de texto-->
+                <Search/>
+            
+        </div>
+    </div>
+    <!--Este es el div que contiene el alert-->
+    <div class=""></div>
+</div>
 
-Welcome to your new app.
+    <!--
+    son los divs que van a contener el componente card-->
+    <div class="resultados">
+     <div class="container">
+        <div class="row">
+            <!-- aqui se manda llamar el componente card y se crea la informacion
+            en los campos-->
+            <Card 
+                Nameparameter=" Walter White"
+                Birthdayparameter="09-07-1958"
+                Nicknameparameter="Heisenberg"
+                Actorparameter="Bryan Cranston"
+                Statusparameter="Pressumed dead"
+            />
+        </div>
+      </div>
+     </div>
+@code{
+    
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+}

@@ -1,0 +1,20 @@
+
+            
+             <input class="texto"@bind="searchtxt" placeholder="Buscar personaje"/>
+            <!--aqui va el boton de busqueda-->
+                <button class="boton "  @onclick="Filtrar">Buscar</button>
+                
+@code{
+    //parametros
+     [Parameter]
+    public string PlaceHolder {get; set;}
+    
+    private string searchtxt="";
+
+    public void Filtrar()
+{
+    
+    Console.WriteLine(searchtxt);
+    
+}
+}

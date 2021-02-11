@@ -1,0 +1,12 @@
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\bin\Debug\net5.0\ExamenRegu.Shared.deps.json
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\bin\Debug\net5.0\ExamenRegu.Shared.dll
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\bin\Debug\net5.0\ref\ExamenRegu.Shared.dll
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\bin\Debug\net5.0\ExamenRegu.Shared.pdb
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ExamenRegu.Shared.csprojAssemblyReference.cache
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ExamenRegu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ExamenRegu.Shared.AssemblyInfoInputs.cache
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ExamenRegu.Shared.AssemblyInfo.cs
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ExamenRegu.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ExamenRegu.Shared.dll
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ref\ExamenRegu.Shared.dll
+C:\Users\jose_\Documents\programacionWeb\Regu\ExamenRegu\Shared\obj\Debug\net5.0\ExamenRegu.Shared.pdb

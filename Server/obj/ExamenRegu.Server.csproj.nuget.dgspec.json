@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\Server\\ExamenRegu.Server.csproj": {}
+    "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\server\\ExamenRegu.Server.csproj": {}
   },
   "projects": {
     "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\Client\\ExamenRegu.Client.csproj": {
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\Server\\ExamenRegu.Server.csproj": {
+    "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\server\\ExamenRegu.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\Server\\ExamenRegu.Server.csproj",
+        "projectUniqueName": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\server\\ExamenRegu.Server.csproj",
         "projectName": "ExamenRegu.Server",
-        "projectPath": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\Server\\ExamenRegu.Server.csproj",
+        "projectPath": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\server\\ExamenRegu.Server.csproj",
         "packagesPath": "C:\\Users\\jose_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\Server\\obj\\",
+        "outputPath": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose_\\AppData\\Roaming\\NuGet\\NuGet.Config",

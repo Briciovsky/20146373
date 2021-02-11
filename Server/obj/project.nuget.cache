@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eR0sjUlDOO/8tknlVnvQ5vBI4ZtDpi+cQFW6VuXlA4QsVaHRQft6HU9fWbiX2k+FOcGQ1vCQlyWAnLWnc0yauA==",
+  "dgSpecHash": "6kthdmsnsJIy65q+A+t6duHM2otq7/EEA/WGKXvHqBwUHjY0VitOXbX95eXJJFbHI0Kyjla9UJpaIlXTSDq9JA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\Server\\ExamenRegu.Server.csproj",
+  "projectFilePath": "C:\\Users\\jose_\\Documents\\programacionWeb\\Regu\\ExamenRegu\\server\\ExamenRegu.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose_\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.2\\microsoft.aspnetcore.authorization.5.0.2.nupkg.sha512",
     "C:\\Users\\jose_\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.2\\microsoft.aspnetcore.components.5.0.2.nupkg.sha512",
